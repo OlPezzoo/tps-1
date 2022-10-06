@@ -1,0 +1,14 @@
+C:\Users\Davide CRJ\Desktop\socketForm\server\server\bin\Debug\netcoreapp3.1\server.exe
+C:\Users\Davide CRJ\Desktop\socketForm\server\server\bin\Debug\netcoreapp3.1\server.deps.json
+C:\Users\Davide CRJ\Desktop\socketForm\server\server\bin\Debug\netcoreapp3.1\server.runtimeconfig.json
+C:\Users\Davide CRJ\Desktop\socketForm\server\server\bin\Debug\netcoreapp3.1\server.runtimeconfig.dev.json
+C:\Users\Davide CRJ\Desktop\socketForm\server\server\bin\Debug\netcoreapp3.1\server.dll
+C:\Users\Davide CRJ\Desktop\socketForm\server\server\bin\Debug\netcoreapp3.1\server.pdb
+C:\Users\Davide CRJ\Desktop\socketForm\server\server\obj\Debug\netcoreapp3.1\server.csproj.AssemblyReference.cache
+C:\Users\Davide CRJ\Desktop\socketForm\server\server\obj\Debug\netcoreapp3.1\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davide CRJ\Desktop\socketForm\server\server\obj\Debug\netcoreapp3.1\server.AssemblyInfoInputs.cache
+C:\Users\Davide CRJ\Desktop\socketForm\server\server\obj\Debug\netcoreapp3.1\server.AssemblyInfo.cs
+C:\Users\Davide CRJ\Desktop\socketForm\server\server\obj\Debug\netcoreapp3.1\server.csproj.CoreCompileInputs.cache
+C:\Users\Davide CRJ\Desktop\socketForm\server\server\obj\Debug\netcoreapp3.1\server.dll
+C:\Users\Davide CRJ\Desktop\socketForm\server\server\obj\Debug\netcoreapp3.1\server.pdb
+C:\Users\Davide CRJ\Desktop\socketForm\server\server\obj\Debug\netcoreapp3.1\server.genruntimeconfig.cache
